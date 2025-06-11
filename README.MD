@@ -46,7 +46,7 @@ Para executar o projeto Meteora em seu ambiente local, siga estas etapas:
 4. Navegue até a pasta em questão via terminal (cmd):
 
 ```bash
-cd cinetag
+cd react-migrando-typescript-main
 ```
 
 5. Instale as dependências usando o npm:
@@ -58,14 +58,14 @@ npm install
 6. Inicie o projeto localmente:
 
 ```bash
-npm run dev
+npm start
 ```
 
 7. Abra seu navegador e acesse a url exibida no seu terminal para visualizar o projeto.
 
 ## 📚 Mais informações do projeto
 
-GIT : https://github.com/marioleme/React-Praticando-ReactJs
+GIT : https://github.com/marioleme/react-migrando-typescript
 
 Professores:  
  - [Vinicios](https://www.linkedin.com/in/vinny-neves/)
