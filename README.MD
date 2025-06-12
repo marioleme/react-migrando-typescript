@@ -66,6 +66,7 @@ npm start
 ## 📚 Mais informações do projeto
 
 GIT : https://github.com/marioleme/react-migrando-typescript
+
 Online : https://react-migrando-typescript.netlify.app
 
 Professores:  
